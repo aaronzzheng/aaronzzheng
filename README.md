@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning various coding languages.
 - 🌱 I’m currently learning Java since 08/22/23
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/aaron-zheng-7b8037272/
 
 <!---
 aaronzzheng/aaronzzheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
