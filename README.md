@@ -1,6 +1,6 @@
 ## Aaron Zheng  
 
-I am a third-year undergraduate student at The Ohio State University pursuing a B.S. in Computer Information Science with a specialization in Database Systems & Data Analytics.
+I am a third-year undergraduate student at The Ohio State University pursuing a B.S. in Computer & Information Science with a specialization in Database Systems & Data Analytics.
 
 Contact: zheng.2274@osu.edu  
 LinkedIn: https://linkedin.com/in/aaronzzheng   
