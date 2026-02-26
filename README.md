@@ -10,7 +10,7 @@ LinkedIn: https://linkedin.com/in/aaronzzheng
 ### Pinned Projects  
 
 **HackOHIO 2025 – SmartParking**  
-HackOHIO is Ohio State’s largest 24-hour hackathon. My team built SmartParking, a full-stack web application that visualizes real-time campus parking availability. I worked on the Node.js APIs, React frontend, and a Python + OpenCV MobileNetV3 model that detects open parking stalls with 98% accuracy. We placed 2nd out of 190 teams.  
+HackOHIO is Ohio State’s largest 24-hour hackathon. My team built SmartParking, a full-stack web application that visualizes real-time campus parking availability. Our team worked on the Node.js APIs, React frontend, and a Python + OpenCV MobileNetV3 model that detects open parking stalls with 98% accuracy. We placed 2nd out of 190 teams.  
 
 **Data I/O – Campus Energy Analytics**  
 Data I/O is OSU’s annual data-focused hackathon. I built a campus energy analytics dashboard with weather-driven ML prediction. The project includes a React + TypeScript frontend for CSV uploads and visualization, and a Python (pandas, scikit-learn) prediction API that forecasts electricity usage using temperature, precipitation, and wind speed.  
