@@ -1,6 +1,6 @@
 ## Aaron Zheng  
 
-I am a third-year undergraduate student at The Ohio State University pursuing a B.S. in Computer & Information Science with a specialization in Database Systems & Data Analytics.
+I am a fourth-year undergraduate student at The Ohio State University pursuing a B.S. in Computer & Information Science with a specialization in Database Systems & Data Analytics.
 
 Contact: zheng.2274@osu.edu  
 LinkedIn: https://linkedin.com/in/aaronzzheng   
@@ -8,6 +8,9 @@ LinkedIn: https://linkedin.com/in/aaronzzheng
 ---
 
 ### Pinned Projects  
+
+**Sanctuary Connect – Cross-Platform Sponsorship App**  
+A two-sided mobile app connecting animal sanctuaries with sponsors, built with React Native + Expo and running on both iOS and Android from a single codebase. Sponsors subscribe to sponsor individual animals and receive a private feed of updates, while sanctuary staff post updates, manage animals, and run donation campaigns. I built the full stack: a TypeScript app following a strict Screen → Hook → Service architecture, a Firebase backend (Firestore, Auth, Storage, Cloud Messaging), 25+ Cloud Functions on Node.js, role-based access control via custom claims, and recurring payments through Stripe (Payment Sheet with Apple Pay and Google Pay).  
 
 **HackOHIO 2025 – SmartParking**  
 HackOHIO is Ohio State’s largest 24-hour hackathon. My team built SmartParking, a full-stack web application that visualizes real-time campus parking availability. Our team worked on the Node.js APIs, React frontend, and a Python + OpenCV MobileNetV3 model that detects open parking stalls with 98% accuracy. We placed 2nd out of 190 teams.  
