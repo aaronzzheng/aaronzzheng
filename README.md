@@ -2,7 +2,7 @@
 
 CS student at Ohio State (Database Systems & Data Analytics). I mostly build things I want to exist: iOS and macOS apps in Swift, and a React Native app for an animal sanctuary nonprofit.
 
-zheng.2274@osu.edu · [LinkedIn](https://linkedin.com/in/aaronzzheng)
+[aaronzzheng.github.io](https://aaronzzheng.github.io) · zheng.2274@osu.edu · [LinkedIn](https://linkedin.com/in/aaronzzheng)
 
 ---
 
