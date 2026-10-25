@@ -36,7 +36,7 @@ Things that bugged me about macOS, fixed in the menu bar. All Swift, no dependen
 **[HackOHI/O 2026 – CPR Coach](https://github.com/aaronzzheng/cpr-coach)** · Most Social Impact award
 A real-time CPR coach on the iPhone and Apple Watch you already own. The watch feels every compression at 100 Hz, the phone's camera checks your form with 3D body pose, and a Kalman filter fuses them into real depth in centimetres. Hands-free voice coaching in 7 languages, fatigue prediction, an AED guide and a report for paramedics. Swift 6, Apple Vision, Core Motion, on-device AI; React web version. Out of 129 teams. [Demo](https://youtu.be/oubjYkOBK_0)
 
-**[HackOHIO 2025 – SmartParking](https://github.com/JunhoHwoang/HackOHIO-2025)** · 2nd place, Honda Challenge
+**[HackOHI/O 2025 – SmartParking](https://github.com/JunhoHwoang/HackOHIO-2025)** · 2nd place, Honda Challenge
 Live campus parking availability. Node APIs, React + Leaflet frontend, and an OpenCV MobileNetV3 model that spots open stalls with 98% accuracy. 2nd out of 190 teams. [Demo](https://youtu.be/uGOvJDlFeZ0) · [Write-up](https://medium.com/99p-labs/hack-ohi-o-2025-14330ac1931e)
 
 **[Data I/O 2026 – Campus Energy Analytics](https://github.com/dlwogk7939/DataIO-2026)**
