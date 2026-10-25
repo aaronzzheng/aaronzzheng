@@ -1,6 +1,6 @@
 ## hey, I'm Aaron
 
-CS student at Ohio State (Database Systems & Data Analytics). I mostly build things I want to exist: iOS and macOS apps in Swift, and a React Native app for an animal sanctuary nonprofit.
+CS student at Ohio State (Database Systems & Data Analytics). I mostly build things I want to exist, usually iOS and macOS apps in Swift. For my master's project I work on VisImageNavigator with Dr. Jian Chen.
 
 [aaronzzheng.github.io](https://aaronzzheng.github.io) · zheng.2274@osu.edu · [LinkedIn](https://linkedin.com/in/aaronzzheng)
 
@@ -8,14 +8,11 @@ CS student at Ohio State (Database Systems & Data Analytics). I mostly build thi
 
 ### what I'm working on
 
-**Sanctuary Connect** *(private)*
-Sponsor an animal at a sanctuary and get a private feed of updates about it. Sanctuary staff post updates and run donation campaigns from the same app. React Native + Expo, Firebase, 25+ Cloud Functions, Stripe subscriptions with Apple Pay and Google Pay. One codebase, iOS and Android, shipped as v1.0.
+**[VisImageNavigator](https://visimagenavigator.github.io)** · OSU master's project with Dr. Jian Chen
+A searchable collection of every figure from IEEE VIS papers. I extended it through 2025: scraped and cropped about 5,300 figures from full papers, 1,000+ from short papers, and 3,300 tables, equations and algorithms, and now I'm labeling chart types with a fine-tuned CLIP model. Python scraping and image pipeline, Google Sheets/Drive for the metadata.
 
 **Lumen** *(private)*
 Apple Photos has no way to edit just part of a picture, so I made one. Click a subject, get a mask, adjust only that. Eight kinds of masks that stack, plus a heal tool. Swift, runs as a standalone app and as an editing extension inside Photos.
-
-**[Matcha](https://github.com/aaronzzheng/matcharonju)**
-I drink a lot of matcha. This tracks and ranks every one you try, learns your taste, and predicts what you'll like. 612 matcha from 91 Japanese houses. SwiftUI, iOS 17+, runs in the Simulator with just Xcode.
 
 ---
 
