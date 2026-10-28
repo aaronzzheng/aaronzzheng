@@ -8,6 +8,11 @@ CS student at Ohio State (Database Systems & Data Analytics). I mostly build thi
 
 ### what I'm working on
 
+**[Aurora Home](https://github.com/aaronzzheng/aurora-home)**
+A home screen I made for my own Android TV. Nine looks that each redo the whole screen, not just the colours: one like Apple TV, a Windows 95 desktop drawn pixel for pixel, a 1960s Japanese TV, a green hacker terminal, and more, each with its own sounds. Nine built-in games drawn to match, and your phone becomes a remote from the browser. Kotlin and Java, with a small ADB client so the phone's arrows work in YouTube and Netflix.
+
+<a href="https://github.com/aaronzzheng/aurora-home"><img src="https://raw.githubusercontent.com/aaronzzheng/aurora-home/main/docs/screenshots/looks.jpg" width="640" alt="All nine Aurora Home looks"></a>
+
 **[VisImageNavigator](https://visimagenavigator.github.io)** · OSU master's project with Dr. Jian Chen
 A searchable collection of every figure from IEEE VIS papers. I extended it through 2025: scraped and cropped about 5,300 figures from full papers, 1,000+ from short papers, and 3,300 tables, equations and algorithms, and now I'm labeling chart types with a fine-tuned CLIP model. Python scraping and image pipeline, Google Sheets/Drive for the metadata.
 
